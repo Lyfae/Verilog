@@ -1,0 +1,15 @@
+Dear All, 
+I have created folder Week 1 under the learning unit (automatically will be released at 8:00 am on june 14th 2021), 
+which has an explicit instruction recorded a video about what I expect to be delivered by you for Lab1. 
+You are required to submit under your GitHub group repo. I created the following: 
+1) Copy of your code 
+2) Clear demo for the functioning task on FPGA 
+3) Clear presentation slide/recorded video showing the participation contribution (be sure all of your work together in coding/testing and verifying as
+ writing the report is not part of the grade but essential for showing the work).
+You will be graded as follow: 
+1) 50% of the grade will be on the functioning demo 
+2) 25% of the grade will be on how the code is sorted 
+3) 25% of the grade will be on the presentation/report 
+The due for submitting your work under your assigned GitHub group repo is Monday, 21st, 2021 (midnight). There is no room for requesting an extension. 
+All the best, 
+Mohamed 
